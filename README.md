@@ -1,2 +1,2 @@
 # ansible
-Using Ansible, for files and anything related to using Ansible.
+Ansible repository for files and anything related to using Ansible.
