@@ -1,3 +1,4 @@
-192.168.50.1
-192.168.50.2
-192.168.50.3
+[servers]
+server1 ansible_host=192.168.50.1 ansible_port=7522
+server2 ansible_host=192.168.50.2 ansible_port=7522
+server3 ansible_host=192.168.50.3 ansible_port=5743
